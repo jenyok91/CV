@@ -1,0 +1,32 @@
+body{
+	background:#093a5b;
+	font-family: Times New Roman, serif;
+}
+.wrap{
+	background: white;
+	padding:10px;
+	display: inline-block;
+	margin-left:170px;
+}
+.m_inf{
+	float:left;
+}
+.c_inf{
+	float:right;
+}
+.c_inf img{
+	margin: 60px 10px 0px 0px;
+}
+.o_inf{
+	margin-top: 40%;
+}
+.o_inf h1{
+	background:#093a5b;
+	color:white;
+	text-align: center;
+	border-radius: 50px;
+}
+.highlight{
+	font-weight: bold;
+}
+
